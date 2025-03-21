@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OopsConcept
 {
@@ -12,7 +8,6 @@ namespace OopsConcept
         {
             string Name = "Chitrangda";
 
-            
             Console.WriteLine("Hi " + Name);
             Console.ReadLine();
         }
